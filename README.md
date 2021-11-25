@@ -5,4 +5,5 @@ David Pacheco- 20182020012.
 
 
 Diagrama de clases, ejercicio de principios de diseño.
-![DiagramaPrincipiosSolid drawio_001](https://user-images.githubusercontent.com/90222067/143458939-5cbd350d-b8b9-4d97-81c9-54a9ca0ab3db.jpg)
+
+![DiagramaClaseCalculadora](https://user-images.githubusercontent.com/90222067/143459327-31fab475-b870-4a1c-9640-cdae54b1e473.jpg)
